@@ -73,13 +73,13 @@ li .nav-link:hover {
     color: #008000;
 }
 .fab {
-    color: white;
+    color: black;
 }
 .far {
-    color: white; 
+    color: black; 
 }
 /* footer styling */
 #footer {
-    background-color: black;
+    background-color: lightgrey;
     text-align: center;
 }
