@@ -1,6 +1,9 @@
+body {
+    background-image: linear-gradient(to bottom right, #008000, white);
+}
 /* hero background image */
 .bgimage {
-    height:100vh;
+    height:50vh;
     background: url('images/heroImage.jpg');
     background-size:cover;
     position:relative;
